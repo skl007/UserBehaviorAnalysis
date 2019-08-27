@@ -4,5 +4,8 @@ object ttt {
 
   def main(args: Array[String]): Unit = {
     println("sss")
+
+
+    println("ffg")
   }
 }
